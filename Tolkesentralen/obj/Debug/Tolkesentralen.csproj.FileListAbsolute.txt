@@ -30,3 +30,35 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Tolkesentralen\Tolkesentr
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Tolkesentralen\Tolkesentralen\bin\EntityFramework.SqlServer.dll
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Tolkesentralen\Tolkesentralen\bin\EntityFramework.xml
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\Tolkesentralen\Tolkesentralen\bin\EntityFramework.SqlServer.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\csc.exe
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\vbc.exe
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\VBCSCompiler.exe
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Tolkesentralen.dll.config
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Tolkesentralen.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Tolkesentralen.pdb
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\EntityFramework.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\EntityFramework.SqlServer.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Newtonsoft.Json.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Net.Http.Formatting.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Web.Http.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Web.Http.WebHost.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\EntityFramework.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\EntityFramework.SqlServer.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\Newtonsoft.Json.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Net.Http.Formatting.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Web.Http.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\bin\System.Web.Http.WebHost.xml
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\obj\Debug\Tolkesentralen.csprojResolveAssemblyReference.cache
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\obj\Debug\Tolkesentralen.dll
+C:\Users\husse_000\Documents\Hioa\6 sem\bachelor\gitTolkRepo\Tolkesentralen\obj\Debug\Tolkesentralen.pdb
