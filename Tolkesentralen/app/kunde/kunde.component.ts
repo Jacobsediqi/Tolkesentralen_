@@ -1,0 +1,7 @@
+﻿import { Component } from '@angular/core';
+@Component({
+    template: `
+        <h3>Logget inn Kunde</h3>
+        `
+})
+export class KundeComponent { }

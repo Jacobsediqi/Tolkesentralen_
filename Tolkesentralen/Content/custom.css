@@ -1,4 +1,9 @@
-﻿body {
+﻿.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
+}
+
+
+body {
   margin: 0;
   padding-top: 65px; 
 }

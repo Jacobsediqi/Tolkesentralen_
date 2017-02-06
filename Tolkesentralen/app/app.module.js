@@ -11,18 +11,25 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
 var forms_1 = require('@angular/forms');
-var forms_2 = require('@angular/forms');
-var http_1 = require('@angular/http');
-var SPA_1 = require('./SPA');
-var Valgfri_1 = require('./Komponenter/Valgfri');
+var app_component_1 = require('./app.component');
+var app_routing_module_1 = require('./app-routing.module');
+var common_1 = require('@angular/common');
 var AppModule = (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule, forms_2.ReactiveFormsModule, http_1.HttpModule, http_1.JsonpModule, forms_1.FormsModule],
-            declarations: [SPA_1.SPA, Valgfri_1.Valgfri],
-            bootstrap: [SPA_1.SPA]
+            imports: [
+                platform_browser_1.BrowserModule,
+                forms_1.FormsModule,
+                app_routing_module_1.AppRoutingModule
+            ],
+            declarations: [
+                app_component_1.AppComponent,
+                app_routing_module_1.routingComponents
+            ],
+            providers: [{ provide: common_1.LocationStrategy, useClass: common_1.HashLocationStrategy }],
+            bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
